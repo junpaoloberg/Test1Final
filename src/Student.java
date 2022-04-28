@@ -23,7 +23,7 @@ public class Student {
 
 		public static void main(String[]args) {
 			
-			Student s1 = new Student("2016-1123 ", "Paragele, Tracy");
+			Teacher s1 = new Teacher("2016-1123 ", "Paragele, Tracy");
 			
 			System.out.println("Student Name: " + s1);
 			
